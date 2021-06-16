@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Kevin Thomas Lal 
 - 👀 I’m interested in Web Development and Blockchain Development.
-- 🌱 I’m currently learning Web Development along with other programming languages like Python and Java.
+- 🌱 I’m currently learning Web Development along with other programming languages like Python.
 - 📫 You can reach me on Instagram(@the_Cloud_Kiddo) or Linkedin(https://www.linkedin.com/in/kevin-lal-17b3861a4/)
 
 <!---
